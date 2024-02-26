@@ -15,7 +15,7 @@ app.use(function (req, res, next) {
     next();
 });
 
-mongoose.connect("");
+mongoose.connect(""); //Update with your db data conection
 let List = require('./model/Todo.js');
 
 
