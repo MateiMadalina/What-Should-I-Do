@@ -15,7 +15,7 @@ app.use(function (req, res, next) {
     next();
 });
 
-mongoose.connect("mongodb+srv://mateielenamadalina22:Serioux1999@cluster0.bqwvie8.mongodb.net/test");
+mongoose.connect("");
 let List = require('./model/Todo.js');
 
 
