@@ -5,7 +5,7 @@ My simple task management project serves as a tool for grasping the fundamental 
 
 ### Technologies Used:
 
-I utilized the following technologies to create Cinemagic:
+I utilized the following technologies:
 
 - **Node.js**: A runtime environment for server-side JavaScript execution.
 - **Express.js**: Backend development, creating APIs and database interactions.
